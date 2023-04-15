@@ -1,0 +1,8 @@
+{
+  "name": "Point-of-sale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cd4f2ddd"
+}
